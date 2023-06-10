@@ -1,8 +1,8 @@
-package Lesson1;
+package lesson1;
 
 import java.util.Arrays;
 import java.util.Random;
-public class Task1 {
+public class Tasks {
     public static void main(String[] args) {
         // 1. Выбросить случайное целое число в диапазоне от 0 до 2000 и сохранить в i
 
